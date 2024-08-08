@@ -21,7 +21,7 @@ JavaScript: For game logic and interactivity.
 Installation and Setup
 
 Clone the repository:
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/AarthiHonguthi/Memory-Game.git
 
 Navigate to the project directory:
 cd memory-game
